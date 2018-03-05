@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Charlie Harpur
+ * User inputs name and birthday and has data printed back to them
+ * 05/03/2018
  */
 
 package BirthdayProgram;
